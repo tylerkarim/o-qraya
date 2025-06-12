@@ -5,13 +5,13 @@ import { getFirestore } from 'firebase/firestore';
 import { getStorage } from 'firebase/storage';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBTruG0m2017P2PIwaW6-3JbX5766RiTDU",
-  authDomain: "qrayadatabase.firebaseapp.com",
-  projectId: "qrayadatabase",
-  storageBucket: "qrayadatabase.firebasestorage.app",
-  messagingSenderId: "695210442595",
-  appId: "1:695210442595:web:db18d84c6dd20737a55d56",
-  measurementId: "G-9GZQNVG2GG"
+  apiKey: "AIzaSyDfK9se9jBkijReY5zPQfxI6m0WT4iZIvM",
+  authDomain: "qrayaaa-acffb.firebaseapp.com",
+  projectId: "qrayaaa-acffb",
+  storageBucket: "qrayaaa-acffb.firebasestorage.app",
+  messagingSenderId: "568791705166",
+  appId: "1:568791705166:web:4fc1d9c4fdc4b6f599c51f",
+  measurementId: "G-TLS1T8NYNC"
 };
 
 // Initialize Firebase
